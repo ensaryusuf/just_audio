@@ -2109,6 +2109,7 @@ abstract class UriAudioSource extends IndexedAudioSource {
         '.link': 'audio/mpeg',
         '.dweb.link': 'audio/mpeg',
         'dweb.link': 'audio/mpeg',
+        '': 'audio/mpeg',
         'ipfs.dweb.link': 'audio/mpeg',
         '.ipfs.dweb.link': 'audio/mpeg',
         '.ogg': 'audio/ogg',
